@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tfs-case-study.html",
+			"settings":
+			{
+				"buffer_size": 6094,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "who.html",
+			"settings":
+			{
+				"buffer_size": 5941,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 6589,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/app.css",
+			"settings":
+			{
+				"buffer_size": 820,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/foundation.css",
+			"settings":
+			{
+				"buffer_size": 118178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Braidon/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 153,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/backstretch.js",
+			"settings":
+			{
+				"buffer_size": 4047,
+				"line_ending": "Windows",
+				"name": "/*! Backstretch - v2.0.3 - 2012-11-30"
+			}
+		},
+		{
+			"file": "js/bsbk.js",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"century-fied",
+			"350",
+			"250",
+			"<h4",
+			"helvetica",
+			"columns",
+			"hr",
+			"00",
+			"300x200",
+			"slide-number",
+			"has-dropdown",
+			"top-bar",
+			"title-area",
+			"hr",
+			"h1",
+			"right-column",
+			"centered",
+			"body",
+			"top-bar",
+			"body",
+			"row",
+			"body",
+			"large",
+			"Case Study - ",
+			"Dropdown Options",
+			"	height: 55px;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 6257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2775,
+								2776
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tfs-case-study.html",
+					"settings":
+					{
+						"buffer_size": 6094,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5356,
+								5356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2016.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "who.html",
+					"settings":
+					{
+						"buffer_size": 5941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5941
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "about.html",
+					"settings":
+					{
+						"buffer_size": 6589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6394,
+								6394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 356.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "css/app.css",
+					"settings":
+					{
+						"buffer_size": 820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 475.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/foundation.css",
+					"settings":
+					{
+						"buffer_size": 118178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88667,
+								88667
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 56743.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Braidon/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/backstretch.js",
+					"settings":
+					{
+						"buffer_size": 4047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4047,
+								4047
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*! Backstretch - v2.0.3 - 2012-11-30",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "js/bsbk.js",
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.55593220339,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

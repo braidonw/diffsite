@@ -1,0 +1,117 @@
+.row{
+	background:#FFF;
+}
+
+.padded-row{
+	padding:10px 0;
+}
+
+button, .button{
+	background-color:#232323;
+	border-color:#992200;
+}
+
+.top-bar{
+	background-color: #232323;
+}
+
+.right-float{
+	float: right;
+}
+
+.right-float{
+	float: right;
+	margin: 10px;
+}
+
+.top-bar{
+}
+
+.title-area{
+	background-color: #232323;
+}
+
+.has-dropdown{
+}
+
+.diff-red{
+	color:red;
+}
+
+.right-column{
+	margin-top: 10px;
+}
+
+.right{
+	width:200px;
+}
+
+hr{
+	color:#E64415;
+}
+
+.extra-top-margin{
+	margin-top:1em;
+	padding-left: 1.25em;
+	padding-right:1.25em;
+}
+
+.narrower-hr{
+	margin-left: .5em;
+	margin-right: .5em;
+}
+
+.narrower-hr2{
+
+}
+
+.century-fied{
+	font-family: Century;
+}
+
+.better-h4{
+	font-style: normal;
+	font-size: 20px;
+	margin-top: 1em;
+	margin-bottom:0.25em;
+}
+
+.centred-pictures{
+}
+
+.name{
+	margin-bottom:1px;
+}
+
+.white-background2{
+	background-color:#DDDDDD;
+	padding:10px 10px 10px;
+	padding-right:2em;
+}
+
+
+.orbit-bullets{
+	padding:0 0 0 10px;
+}
+
+.top-bar{
+	border-bottom-color:#E64415;
+	border-bottom-width: 1px;
+}
+body > .row{
+	height:100%;
+	margin:40px auto;
+	box-shadow: 0px 0px 16px 8px rgba(66,66,66,0.2);
+}
+.bogan > .row > .unpadded{
+	padding:0;
+}
+html{
+	height:100%;
+	background:url(../img/bg.jpg) center center;
+}
+body {
+	background:transparent;
+	font-family: 'Open Sans', sans-serif;
+	min-height:100%;
+}
